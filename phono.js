@@ -6,13 +6,9 @@
 */
 
 
-
-
 /*
-    #2: Create an Array named fruit with at least 5 different fruit
+    #2: Display your 5 variables on the page using console.log();
 */
-
-
 
 
 /*
@@ -35,33 +31,23 @@
 */
 
 
-
-
 /*
-    #4: Display your 5 variables on the page using console.log();
-*/
-
-
-/*
-    #5: Use a Loop to display each fruit in your Array using console.log();
+    #4: Use a Loop to display each item in your Array using console.log();
     (use the built-in Length function to iterate your array ex. fruit.length) 
 */
-    
 
 
 /*
-    #6: Display your phone properties (ignore contacts) using console.log();
+    #5: Display your phone properties using console.log() and a for-in loop;
 */
 
 
-
 /*
-    #7: Toggle phone power using the powerToggle() method 
+    #6: Toggle phone power using the powerToggle() method 
     - Display the new value
 */
 
 
-
 /*
-    #8: Use the phone sendMessage() method to say "Hello" to a number in your contacts array
+    #7: Use the phone sendMessage() method to say "Hello" to a number in your contacts array
 */
