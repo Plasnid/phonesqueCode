@@ -1,6 +1,6 @@
 /* 
-    #1: Create 3 variables. One MUST be a constant.
-    - One for each datatype in JavaScript (number, string, boolean)
+    #1: Create 5 variables. One MUST be a constant.
+    - One for each datatype in JavaScript (number, string, boolean, array, object)
     - Use your name & student number for the string / number respectively 
     - Initilize the boolean to either true or false
 */
@@ -38,7 +38,7 @@
 
 
 /*
-    #4: Display your 3 variables on the page using console.log();
+    #4: Display your 5 variables on the page using console.log();
 */
 
 

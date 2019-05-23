@@ -1,0 +1,23 @@
+{
+  "name": "phonesquecode",
+  "version": "1.0.0",
+  "description": "practicing code basics with details about phones",
+  "main": "phono.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasnid/phonesqueCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasnid/phonesqueCode/issues"
+  },
+  "homepage": "https://github.com/Plasnid/phonesqueCode#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
+}
